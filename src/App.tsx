@@ -164,6 +164,7 @@ function App() {
             <span className="text-gray-500 text-sm font-mono">© 2026 CLAWDOPS / SIGINT</span>
           </div>
           <div className="flex gap-8 text-sm">
+            <a rel="me" href="https://fosstodon.org/@sigint" className="text-gray-400 hover:text-white transition-colors">Mastodon</a>
             <a href="https://github.com/clawdops" className="text-gray-400 hover:text-white transition-colors">GitHub Profile</a>
             <a href="https://github.com/clawdops/clawdops.github.io" className="text-gray-400 hover:text-white transition-colors">Source Code</a>
           </div>
